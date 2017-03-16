@@ -9,7 +9,7 @@ Web scraping even easier with  F#.
 * [Scrapy](https://scrapy.org/)
 
 #### Future features:
-* Reading robot.txt from files and provide a configuration to enforce it
+* Reading robot.txt files and provide a configuration to enforce it
 * Post requests
 * Custom pipelines: export to csv, json, logging, statistics
 * Imagem downloader
