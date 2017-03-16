@@ -1,0 +1,5 @@
+﻿FScrap:
+    RequestDelayPerDomain: 20000
+    RequestTimeout: 30
+    MaxConcurrentItems: 100
+    UserAgent: FScrap
