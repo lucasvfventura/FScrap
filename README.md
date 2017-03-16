@@ -15,4 +15,4 @@ Web scraping even easier with  F#.
 * Imagem downloader
 
 
-##### *Don't see a future in the list? Create a issue*
+##### *Don't see a feature in the list? Create a issue*
